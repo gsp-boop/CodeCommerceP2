@@ -33,3 +33,5 @@ a, p, h1, h2, h3,h4, span {
   min-width: 400px;
   max-width: 1440px;
 }
+.imgContainer { width: 150px; height: 100px}
+img{width: 100%}

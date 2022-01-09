@@ -1,0 +1,14 @@
+.galleryContainer {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.galleryItem {
+    padding: 20px;
+}
+
+.imgContainer {
+    margin: 0 auto;
+}
+.hide { display: none;}

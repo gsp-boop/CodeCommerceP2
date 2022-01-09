@@ -1,0 +1,33 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+}
+
+.header h2 {
+    margin-left: 20px;
+}
+
+.nav {
+    display: flex;
+    width: 250px;
+    justify-content: space-evenly;
+}
+
+.signIn {
+    width: 300px;
+    margin-inline: auto;
+}
+
+.inputContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.signIn button {
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+.hide { display: none;}
