@@ -59,7 +59,7 @@ class SignIn extends React.Component {
     this.setState({ createAcct: true });
   };
 
-  signOut = () => {
+  signOut = () => { 
     this.setState({
       gallery: false,
       userName: false,
